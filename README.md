@@ -1,1 +1,2 @@
-# JS-full-stack-Mers-project
+# JavaScript full-stack Mers-project
+Responsive only for desctop!
