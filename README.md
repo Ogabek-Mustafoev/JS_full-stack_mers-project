@@ -5,7 +5,7 @@ This project is only desktop friendly! It is not responsive.</p>
 
 <h2>🚀 Demo</h2>
 
-[https://demo](https://demo)
+[🔗 Website link](https://mers-project.vercel.app/)
 
 <h2>Project Screenshots:</h2>
 
