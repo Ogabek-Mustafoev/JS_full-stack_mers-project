@@ -8,9 +8,9 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1B9zRjUDEJ-CtZz-V8BwV6zWjWicj1gUp" alt="project-screenshot" width="500" height="400/">
+<img src="https://drive.google.com/uc?export=view&id=1B9zRjUDEJ-CtZz-V8BwV6zWjWicj1gUp" alt="project-screenshot" width="500" height="400/">
 
-<img src="https://drive.google.com/uc?export=view&amp;id=1UJ7h_9j45m15jj70JmktRdx4086zONKb" alt="project-screenshot" width="500" height="400/">
+<img src="https://drive.google.com/uc?export=view&id=1UJ7h_9j45m15jj70JmktRdx4086zONKb" alt="project-screenshot" width="500" height="400/">
 
 <h2>🛠️ Installation Steps:</h2>
 
@@ -30,4 +30,4 @@ npx json-server db.json
 
 <h2>💖Like my work?</h2>
 
-This project is only desktop friendly! It is not responsive.
+This project is only desktop friendly! It is not responsive.<p>https://drive.google.com/file/d/1UJ7h_9j45m15jj70JmktRdx4086zONKb/view https://drive.google.com/file/d/1B9zRjUDEJ-CtZz-V8BwV6zWjWicj1gUp/view</p>
