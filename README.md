@@ -9,8 +9,8 @@ This project is only desktop friendly! It is not responsive.</p>
 
 <h2>Project Screenshots:</h2>
 
-<a target="_blank" href="https://drive.google.com/uc?export=view&id=1B9zRjUDEJ-CtZz-V8BwV6zWjWicj1gUp">👉 First Image</a>
-<a target="_blank" href="https://drive.google.com/uc?export=view&id=1UJ7h_9j45m15jj70JmktRdx4086zONKb">👉 Second Image</a>
+<a href="https://drive.google.com/uc?export=view&id=1B9zRjUDEJ-CtZz-V8BwV6zWjWicj1gUp" target="_blank">👉 First Image</a>
+<a href="https://drive.google.com/uc?export=view&id=1UJ7h_9j45m15jj70JmktRdx4086zONKb" target="_blank">👉 Second Image</a>
 
 <h2>🛠️ Installation Steps:</h2>
 
