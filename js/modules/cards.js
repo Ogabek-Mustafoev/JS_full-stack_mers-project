@@ -19,7 +19,7 @@ export default function cards() {
       this.descr = descr;
       this.price = price;
       this.parent = document.querySelector(parentSelector);
-      this.transfer = 10.5;
+      this.transfer = 1;
       this.changeToUSD();
     }
     changeToUSD() {
@@ -35,7 +35,7 @@ export default function cards() {
           <div class="menu__item-divider"></div>
           <div class="menu__item-price">
             <div class="menu__item-cost">Price:</div>
-            <div class="menu__item-total"><span>${this.price}</span> $</div>
+            <div class="menu__item-total"><span>${this.price.toLocaleString("en-US", { style: "currency", currency: "USD" }).slice(0, -3)}</span></div>
           </div>
         </div>
       `;

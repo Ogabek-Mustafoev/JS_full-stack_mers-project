@@ -5,21 +5,21 @@
       "altimg": "c-class",
       "title": "Mercedes-Benz C-Class'",
       "descr": "The 2021 Mercedes-Benz C-Class finishes in the top half of our luxury small car rankings. It's powerful and upscale, but it has so-so...",
-      "price": "240 000"
+      "price": "240000"
     },
     {
       "img": "img/tabs/3.jpg",
       "altimg": "gt",
       "title": "Mercedes-AMG GT Roadsters'",
       "descr": "If the Mercedes-AMG GT is a reinvention of the pure sports car, there's only one way to make it even purer: Open it up. With the GT...",
-      "price": "369 000"
+      "price": "369000"
     },
     {
       "img": "img/tabs/4.jpg",
       "altimg": "classes",
       "title": "All Mercedes-Benz Classes'",
       "descr": "Mercedes-Benz commonly referred to as Mercedes and sometimes as Benz, is a German luxury vehicle automotive brand established in 1926...",
-      "price": "210 000"
+      "price": "210000"
     }
   ],
   "requests": []
