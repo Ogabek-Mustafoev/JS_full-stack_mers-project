@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Mers-Project</h1>
 
-<p id="description">Full-Stack Mers-Project with HTML CSS JavaScript and Json-Server. 
+<p id="description">Full-Stack Mers-Project with HTML CSS JavaScript, Webpack and Json-Server. 
 This project is only desktop friendly! It is not responsive.</p>
 
 <h2>🚀 Demo</h2>
