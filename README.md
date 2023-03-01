@@ -14,13 +14,13 @@ This project is only desktop friendly! It is not responsive.</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Install all files</p>
+<p>1. Open terminal and run:</p>
 
 ```
 npm install
 ```
 
-<p>2. Run Json-server</p>
+<p>2. Run Json-server:</p>
 
 ```
 npx json-server db.json
