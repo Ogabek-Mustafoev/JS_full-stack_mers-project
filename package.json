@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Og'abek Mustafoyev",
+  "author": "Ogabek Mustafoyev",
   "license": "ISC",
   "devDependencies": {
     "json-server": "^0.17.0",
