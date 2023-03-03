@@ -19,7 +19,7 @@ This project is only desktop friendly! It is not responsive.</p>
 <p>1. Download code</p>
 
 ```
-git clone https://github.com/Ogabek-Mustafoev/JS_full-stack_serial-project.git
+git clone https://github.com/Ogabek-Mustafoev/JS_full-stack_mers-project.git
 ```
 
 <p>2. Install packages</p>
