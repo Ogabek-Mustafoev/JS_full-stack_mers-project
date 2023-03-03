@@ -4,7 +4,7 @@
 This project is only desktop friendly! It is not responsive. All data comes from db.json and if user send feedback, it is written in db.json.</p>
 
 <h2>🚀 Demo</h2>
-<p>In demo website, project is not as it was, because json-server does not run on server! Please download project to see real project!</p>
+<p>In demo website, project is not as it was, because json-server does not run on that host! Please download project to see its all features!</p>
 [🔗 Website link](https://js-full-stack-mers-project.vercel.app/)
 
 <h2>Project Screenshots:</h2>
