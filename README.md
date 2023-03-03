@@ -1,16 +1,18 @@
 <h1 align="center" id="title">Mers-Project</h1>
 
-<p id="description">Full-Stack Mers-Project with HTML CSS JavaScript, Webpack and Json-Server. 
+<p id="description">Full-Stack Mers-Project with HTML, CSS, JavaScript, Webpack and Json-Server. 
 This project is only desktop friendly! It is not responsive.</p>
 
 <h2>🚀 Demo</h2>
 
-[🔗 Website link](https://mers-project.vercel.app/)
+[🔗 Website link](https://js-full-stack-mers-project.vercel.app/)
 
 <h2>Project Screenshots:</h2>
 
-<a href="https://drive.google.com/uc?export=view&id=1B9zRjUDEJ-CtZz-V8BwV6zWjWicj1gUp" target="_blank">👉 First Image</a>
-<a href="https://drive.google.com/uc?export=view&id=1UJ7h_9j45m15jj70JmktRdx4086zONKb" target="_blank">👉 Second Image</a>
+ <div style="display: flex; justify-content: space-between; width=100%;">
+  <img src="https://charming-semolina-34cdcd.netlify.app/assets/Blog-post/blog1.png" alt="project-screenshot" width="450">
+  <img src="https://charming-semolina-34cdcd.netlify.app/assets/Blog-post/blog2.png" alt="project-screenshot" width="450">
+ </div>
 
 <h2>🛠️ Installation Steps:</h2>
 
