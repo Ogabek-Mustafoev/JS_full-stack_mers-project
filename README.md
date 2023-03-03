@@ -16,13 +16,19 @@ This project is only desktop friendly! It is not responsive.</p>
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Open terminal and run:</p>
+<p>1. Download code</p>
+
+```
+git clone https://github.com/Ogabek-Mustafoev/JS_full-stack_serial-project.git
+```
+
+<p>2. Install packages</p>
 
 ```
 npm install
 ```
 
-<p>2. Run Json-server:</p>
+<p>3. Run Json-server:</p>
 
 ```
 npx json-server db.json
