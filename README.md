@@ -9,10 +9,8 @@ This project is only desktop friendly! It is not responsive.</p>
 
 <h2>Project Screenshots:</h2>
 
- <div style="display: flex; justify-content: space-between; width=100%;">
-  <img src="https://charming-semolina-34cdcd.netlify.app/assets/Blog-post/blog1.png" alt="project-screenshot" width="500">
-  <img src="https://charming-semolina-34cdcd.netlify.app/assets/Blog-post/blog2.png" alt="project-screenshot" width="500">
- </div>
+  <img src="https://charming-semolina-34cdcd.netlify.app/assets/Blog-post/blog1.png" alt="project-screenshot">
+  <img src="https://charming-semolina-34cdcd.netlify.app/assets/Blog-post/blog2.png" alt="project-screenshot">
 
 <h2>🛠️ Installation Steps:</h2>
 
